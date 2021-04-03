@@ -1,13 +1,11 @@
 ---
-title: Design app demo
-date: 2019-02-09
-published: true
-tags: [design, mobile]
-client: Google
-role: mobile development
-link: google.com
-cover_image: /uploads/images/patrick-tomasso-KGcLJwIYiac-unsplash.jpg
+title: Design app demo 2021
 description: This is a demo case study for a mobile app
+date: 2019-02-09T00:00:00.000Z
+published: true
+tags:
+  - design
+  - mobile
 ---
 
 # Mobile app demo
