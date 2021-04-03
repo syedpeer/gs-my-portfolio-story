@@ -1,7 +1,7 @@
 ---
-title: Design app demo 2021
+title: Design App Demo Latest
 description: This is a demo case study for a mobile app
-date: 2019-02-09T00:00:00.000Z
+date: 2021-04-03T23:00:00.000Z
 published: true
 tags:
   - design
